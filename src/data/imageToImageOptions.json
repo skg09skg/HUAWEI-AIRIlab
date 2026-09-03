@@ -1,0 +1,9 @@
+{
+    "baseUploadEyebrow": { "en": "Mass Model / Concept Sketch", "chs": "体块模型 / 概念草图" },
+    "baseTypes": [
+        { "id": "architecture", "en": "Architecture", "chs": "建筑" },
+        { "id": "interior", "en": "Interior", "chs": "室内" },
+        { "id": "landscape", "en": "Landscape", "chs": "景观" },
+        { "id": "urban", "en": "Urban", "chs": "城市" }
+    ]
+}
